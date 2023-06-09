@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/Button/text.spritefont</File>
+    <File>C:/Users/user/Desktop/game/selectLevel.png</File>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/Congratulation/Congratulation.png</File>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/Congratulation/homeButton.png</File>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/Congratulation/next.png</File>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/Game/bullet.png</File>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/Game/bulllll.png</File>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/Game/hilka.png</File>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/GameWin/gameWin1.png</File>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/GameWin/gameWin2.png</File>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/GameWin/gameWin3.png</File>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/GameWin/homeff.png</File>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/MenuSpr/backgroundMenu12.png</File>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/MenuSpr/exit1.png</File>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/MenuSpr/start1.png</File>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/Reload/homeBut.png</File>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/Reload/reload.png</File>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/Reload/resetBut.png</File>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/Reload/resetButton.png</File>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/SelectLevel/1lvl.png</File>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/SelectLevel/2lvl.png</File>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/SelectLevel/3lvl.png</File>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/SelectLevel/4lvl.png</File>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/SelectLevel/5lvl.png</File>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/SelectLevel/6lvl.png</File>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/SelectLevel/backtothemenu.png</File>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/SelectLevel/ExitButtonMenu.png</File>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/SelectLevel/selectLevel.png</File>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/SelectLevel/selectLevel1.png</File>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/sprite mon/mon2.png</File>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/sprite mon/mon3.png</File>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/sprite mon/monster1.png</File>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/TextForCountHealth.spritefont</File>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/White_Punk_-_Vampir_60075944.mp3</File>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/Спрайты персонажа/1person.png</File>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/Спрайты персонажа/2person.png</File>
+    <File>V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/Спрайты персонажа/3person.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File>SelectLevel/selectLevel.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

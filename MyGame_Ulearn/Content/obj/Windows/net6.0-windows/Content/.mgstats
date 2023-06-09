@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/user/Desktop/game/selectLevel.png","V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/bin/Windows/Content/SelectLevel/selectLevel.xnb","TextureProcessor","Texture2DContent",423228,5760085,0,237669
+"V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/SelectLevel/selectLevel.png","V:/game/MyGame_Ulearn/MyGame_Ulearn/Content/bin/Windows/Content/SelectLevel/selectLevel.xnb","TextureProcessor","Texture2DContent",423228,5760085,0,1384403
